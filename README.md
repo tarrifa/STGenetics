@@ -1,19 +1,20 @@
-## 🚀 Como ejecutarlo en local
+## 🚀 How to see the project locally 
 
-Necesitarás tener instalado ``` node.js ``` a partir de la versión 14 y tener acceso a una terminal para seguir los siguientes pasos:
+You will need to have node.js installed, starting from version 14, and have access to a terminal to follow these steps:
 >
-1. Necesitamos clonar el proyecto añadiendo la siguiente linea de comando en una terminal
+1. We need to clone the project by adding the following command line in a terminal
 ```
 git clone https://github.com/tarrifa/STGenetics.git
 ```
-2. Entramos a la carpeta que acabamos de clonar e instalamos las dependencias necesarias
+2. We enter the folder that we just cloned and install the necessary dependencies
+arduino
 ```
 npm install
 #
 yarn
 ```
 >
-3. Ejecutamos nuestro proyecto en local
+3. We run our project locally
 ```
 npm run dev
 #
