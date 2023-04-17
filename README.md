@@ -1,4 +1,4 @@
-## 🚀 How to see the project locally 
+##  How to see the project locally 
 
 You will need to have node.js installed, starting from version 14, and have access to a terminal to follow these steps:
 >
